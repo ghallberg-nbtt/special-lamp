@@ -1,7 +1,7 @@
 /*
   28BYJ-48 Stepper Motor Control
   Copyright 2023 Gary Hallberg
-  Licensed under MIT https://github.com/ghallberg-nbtt/special-lamp/blob/main/README.md
+  Licensed under MIT https://github.com/ghallberg-nbtt/special-lamp/blob/main/LICENSE
 */
 #include <Stepper.h>
 
